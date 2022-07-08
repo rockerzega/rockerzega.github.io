@@ -1,0 +1,5 @@
+site_name: Notificaciones
+nav:
+  - Inicio: index.md
+  - Usuarios: usuarios.md
+  - Notificaciones: notificaciones.md
